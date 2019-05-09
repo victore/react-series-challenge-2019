@@ -1,4 +1,4 @@
-import { all, fork } from "redux-saga/lib/effects";
+import { all, fork } from "redux-saga/effects";
 import homePageWatcher from  '../Containers/HomePage/saga';
 import searchPageWatcher from "../Containers/SearchPage/saga"
 
